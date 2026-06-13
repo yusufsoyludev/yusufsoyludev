@@ -68,7 +68,7 @@ Backend tarafında .NET ve Node.js teknolojileriyle, frontend tarafında React i
 
 ## 📈 GitHub İstatistikleri
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusufsoyludev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=yusufsoyludev&theme=tokyonight&hide_border=false)
 
