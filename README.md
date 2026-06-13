@@ -89,6 +89,6 @@ Backend tarafında .NET ve Node.js teknolojileriyle, frontend tarafında React i
 
 🌐 [yusufsoyludev.com](https://yusufsoyludev.com)
 
-💼 [LinkedIn](https://linkedin.com/in/yusufsoylu)
+💼 [LinkedIn](https://www.linkedin.com/in/yusuf-soylu/?locale=tr)
 
 📧 yusufsoylu1974@gmail.com
