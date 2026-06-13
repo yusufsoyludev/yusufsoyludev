@@ -4,13 +4,17 @@
 
 Backend tarafında .NET ve Node.js teknolojileriyle, frontend tarafında React ile modern web uygulamaları geliştiriyorum.
 
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,react,mongodb,supabase" />
+</p>
+
 ---
 
 ## 🚀 Hakkımda
 
 - ASP.NET Core Web API ile ölçeklenebilir backend servisleri geliştiriyorum.
 - Node.js ve Express.js ile REST API'ler tasarlıyorum.
-- SQL Server ve MongoDB veritabanlarıyla çalışıyorum.
+- SQL Server, MongoDB ve Supabase ile çalışıyorum.
 - React ile modern ve responsive kullanıcı arayüzleri oluşturuyorum.
 - SEO, performans ve kullanıcı deneyimine önem veriyorum.
 - Git, GitHub ve Docker kullanarak geliştirme süreçlerini yönetiyorum.
@@ -22,19 +26,19 @@ Backend tarafında .NET ve Node.js teknolojileriyle, frontend tarafında React i
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,vite" />
 </p>
 
-### Database
+### Database & Services
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase" />
 </p>
 
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
@@ -42,40 +46,31 @@ Backend tarafında .NET ve Node.js teknolojileriyle, frontend tarafında React i
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio" />
 </p>
 
 ---
 
-## 📌 Öne Çıkan Projeler
+## ⚡ Teknik Yetkinlikler
 
-### 🌐 Portfolio Website
-Modern ve SEO uyumlu kişisel portfolyo sitesi.
-
-**Tech Stack:** React • Vite • Tailwind CSS
-
-### 🎬 Cinemania
-10 kişilik ekip tarafından geliştirilen film keşif uygulaması.
-
-**Katkılarım:**
-- Pagination sistemi
-- API entegrasyonları
-- Responsive geliştirmeler
-
-### ⚙️ ASP.NET Core Web API
-JWT Authentication, Entity Framework Core ve SQL Server kullanan backend projesi.
-
-**Özellikler:**
+- RESTful API Geliştirme
 - Authentication & Authorization
-- CRUD işlemleri
-- Swagger Documentation
 - Entity Framework Core
+- JWT Authentication
+- SQL ve NoSQL Veritabanları
+- API Entegrasyonları
+- Responsive Web Uygulamaları
+- SEO ve Performans Optimizasyonu
+- Docker ile Containerizasyon
+- Git & GitHub Workflow
 
 ---
 
 ## 📈 GitHub İstatistikleri
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusufsoyludev&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusufsoyludev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yusufsoyludev&theme=tokyonight&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufsoyludev&layout=compact&theme=tokyonight)
 
@@ -83,17 +78,17 @@ JWT Authentication, Entity Framework Core ve SQL Server kullanan backend projesi
 
 ## 🎯 Kariyer Hedefleri
 
-- Mikroservis mimarileri
-- Cloud teknolojileri
-- Sistem tasarımı
-- Büyük ölçekli .NET projeleri
+- Mikroservis mimarileri üzerine uzmanlaşmak
+- Cloud teknolojilerinde kendimi geliştirmek
+- Büyük ölçekli .NET projelerinde görev almak
+- Yazılım mimarisi ve sistem tasarımı alanlarında derinleşmek
 
 ---
 
 ## 📫 İletişim
 
-🌐 yusufsoyludev.com
+🌐 [yusufsoyludev.com](https://yusufsoyludev.com)
 
-💼 LinkedIn
+💼 [LinkedIn](https://linkedin.com/in/yusufsoylu)
 
 📧 yusufsoylu1974@gmail.com
